@@ -1,2 +1,2 @@
 # About-me
-a new guy to web,just know html and css,come here for make friends and learn.
+A new guy to web,coming here to make friends and learn more.
